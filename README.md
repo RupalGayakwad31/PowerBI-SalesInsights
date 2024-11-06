@@ -1,2 +1,0 @@
-# PowerBI-SalesInsights
-PowerBI Project
